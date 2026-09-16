@@ -1,0 +1,13 @@
+Artificial Intelligence is a field of computer science that focuses on creating systems that can perform tasks that normally require human intelligence.
+
+Machine Learning is a subset of Artificial Intelligence. It allows computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every task.
+
+Natural Language Processing, or NLP, is a branch of Artificial Intelligence that enables computers to understand, process, and generate human language.
+
+Retrieval-Augmented Generation, or RAG, combines information retrieval with language generation. A RAG system first retrieves relevant information from a knowledge base and then provides that information to a language model to generate a grounded answer.
+
+Embeddings are numerical representations of text. Similar pieces of text have similar embedding vectors, which allows semantic search systems to find relevant information.
+
+A vector database stores vector embeddings and allows fast similarity searches. Chroma and FAISS are examples of technologies that can be used for vector search.
+
+Streamlit is a Python framework used to create interactive web applications. It can be used to deploy a simple interface for a document-based question answering chatbot.
